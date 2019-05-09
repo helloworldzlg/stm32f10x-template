@@ -530,6 +530,18 @@
         </Group>
         <Group>
           <GroupName>Bsp</GroupName>
+          <Files>
+            <File>
+              <FileName>common_api.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Bsp\common_api.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsp_init.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Bsp\bsp_init.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>User</GroupName>

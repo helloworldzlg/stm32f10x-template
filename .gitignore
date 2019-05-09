@@ -3,3 +3,5 @@ stm32f10x-template.uvguix*
 
 # ignore dir
 Output/
+SI/
+DebugConfig/
